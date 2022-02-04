@@ -14,7 +14,16 @@ This project features the following capabilities.
 - azure-app-service-static
 - azure-web-apps
 
+## Architecture
+
+![Solution Architecture](./documents/catch-the-bus-architecture.svg)
+
 ## Getting Started
 
-https://aka.ms/azuremodernapps  
-https://youtu.be/XBxBC959tLg
+### Microsoft Learn Path
+
+Learn  at your own pace, following the interactive tutorial, that will guide you through the building of the entire solution: https://aka.ms/azuremodernapps 
+
+### YouTube Video
+
+The authors discuss the architecture, the key points and the details of each technology used and each choice made: https://youtu.be/XBxBC959tLg
